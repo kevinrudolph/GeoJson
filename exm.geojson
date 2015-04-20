@@ -1,0 +1,12 @@
+{
+    "type": "FeatureCollection",
+        "features": [
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [49.5516, 7.2398]},
+            "properties": {
+                "title": "Hello, World"
+            }
+        }
+    ]
+}
