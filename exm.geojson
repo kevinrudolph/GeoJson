@@ -6,7 +6,7 @@
             "geometry": {"type": "Point", "coordinates": [7.2398, 49.5516]},
             "properties": {
             "title": "First Pen Marker", 
-            "prop0": "80KwH"
+            "prop0": {"energy": "80KwH"}
             }
         },
         {
@@ -14,9 +14,8 @@
             "geometry": {"type": "Point", "coordinates": [7.4398, 49.6516]},
             "properties": {
             "title": "Second Pen Marker", 
-            "prop0": "50KwH"
+            "prop0": {"energy": "70KwH"}
             }
         }
-
     ]
 }
