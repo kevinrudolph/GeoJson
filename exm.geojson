@@ -5,7 +5,7 @@
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [7.2398, 49.5516]},
             "properties": {
-            "title": "First Pen Marker",
+            "title": "Harborstr. 15, 79115 Leisen",
             "description": "Energy: 5 <br> Load: 10",
             "marker-color": "#fc4353",
             "marker-size": "large",
@@ -16,8 +16,22 @@
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [7.4398, 49.6516]},
             "properties": {
-            "title": "Second Pen Marker", 
-            "prop0": {"energy": "70KwH"}
+            "title": "Mitstr. 14, 79515 Soßen",
+            "description": "Energy: 15 <br> Load: 115",
+            "marker-color": "#fc4353",
+            "marker-size": "large",
+            "marker-symbol": "triangle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [7.5398, 49.3516]},
+            "properties": {
+            "title": "Knorkestr. 19, 79215 Bratßen",
+            "description": "Energy: 152 <br> Load: 125",
+            "marker-color": "#fc4353",
+            "marker-size": "large",
+            "marker-symbol": "triangle"
             }
         }
     ]
