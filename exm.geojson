@@ -6,10 +6,10 @@
             "geometry": {"type": "Point", "coordinates": [7.2398, 49.5516]},
             "properties": {
             "title": "First Pen Marker",
-            "description": "Test description",
+            "description": "Energy: 5 <br> Load: 10",
             "marker-color": "#fc4353",
             "marker-size": "large",
-            "marker-symbol": "monument"
+            "marker-symbol": "triangle"
             }
         },
         {
