@@ -4,12 +4,18 @@
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [7.2398, 49.5516]},
-            "properties": {"title": "First Pen Marker", "energy": "80KwH"}
+            "properties": {
+            "title": "First Pen Marker", 
+            "title": "80KwH"
+            }
         },
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [7.4398, 49.6516]},
-            "properties": {"title": "First Pen Marker", "energy": "50KwH"}
+            "properties": {
+            "title": "First Pen Marker", 
+            "title": "50KwH"
+            }
         }
 
     ]
