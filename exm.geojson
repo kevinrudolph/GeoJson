@@ -8,5 +8,12 @@
                 "title": "First Pen Marker"
             }
         }
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [7.5398, 49.7516]},
+            "properties": {
+                "title": "Second Pen Marker"
+            }
+        }
     ]
 }
