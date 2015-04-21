@@ -10,15 +10,3 @@
         }
     ]
 }
-{
-    "type": "FeatureCollection",
-        "features": [
-        {
-            "type": "Feature",
-            "geometry": {"type": "Point", "coordinates": [7.5398, 49.7516]},
-            "properties": {
-                "title": "First Pen Marker"
-            }
-        }
-    ]
-}
