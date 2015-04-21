@@ -5,8 +5,11 @@
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [7.2398, 49.5516]},
             "properties": {
-            "title": "First Pen Marker", 
-            "prop0": {"energy": "80KwH"}
+            "title": "First Pen Marker",
+            "description": "Test description",
+            "marker-color": "#fc4353",
+            "marker-size": "large",
+            "marker-symbol": "monument"
             }
         },
         {
